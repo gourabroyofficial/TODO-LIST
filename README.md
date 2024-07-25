@@ -1,6 +1,6 @@
 # TODO List Application
 
-This is a simple TODO List application created using Python and Tkinter. The application allows you to add, delete, and mark tasks as done or undone. It also provides functionalities to save and load tasks from a file, and to sort tasks in ascending or descending order.
+This is a simple TODO List GUI application created using Python's Tkinter framework. The application allows you to add, delete, and mark tasks as done or undone. It also provides functionalities to save and load tasks from a file, and to sort tasks in ascending or descending order.
 
 ## Features
 
